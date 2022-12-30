@@ -1,0 +1,16 @@
+{
+  "name": "automationsy-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "automationsy": "^2.0.1",
+    "jest": "^29.3.1"
+  }
+}
